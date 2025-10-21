@@ -11,5 +11,5 @@ El script en Python utiliza la API de GraphHopper Directions para calcular rutas
 ## Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/EVA02_TU_NOMBRE_PEREZ.git
-   cd EVA02_TU_NOMBRE_PEREZ
+   git clone https://github.com/eparedes-duoc/eva02.git
+   cd eva02
